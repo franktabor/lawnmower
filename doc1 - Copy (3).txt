@@ -1,3 +1,0 @@
-text entered on my computer in the text editor
-
-EOF
