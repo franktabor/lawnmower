@@ -11,15 +11,16 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/w3css/4/w3.css">
 <style>
+this line added
 a:hover,a:active{color:#4CAF50}
 table.w3-table-all{margin:20px 0}
 /*OPPSETT AV TOP, TOPNAV, SIDENAV, MAIN, RIGHT OG FOOTER:*/
-.top {
+ 
 position:relative;
 background-color:#ffffff;
 height:68px;
 padding-top:20px;
-line-height:50px;
+line-height:60px;
 overflow:hidden;
 z-index:2;
 }
